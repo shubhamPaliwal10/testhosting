@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/trinzles/public_html/github/testhosting
+    - export DEPLOYPATH=/home/trinzles/public_html/github/testhosting/
     - /bin/cp abc.txt $DEPLOYPATH
