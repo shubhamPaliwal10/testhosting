@@ -1,0 +1,5 @@
+---
+deployments:
+  - destination: /home/trinzles/public_html/github/testhosting
+    repo: https://github.com/shubhamPaliwal10/testhosting.git
+    branch: main
